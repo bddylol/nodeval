@@ -131,3 +131,7 @@ dist
 
 # example
 goval-example.proto
+
+# replit
+.replit
+replit.nix
