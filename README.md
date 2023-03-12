@@ -1,6 +1,6 @@
 # Nodeval
 
-Inspired by PotentialStyx!
+Custom Replit goval server written in node.js! Inspired by PotentialStyx!
 
 ## Usage
 
