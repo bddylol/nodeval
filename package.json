@@ -1,0 +1,26 @@
+{
+  "name": "nodeval",
+  "description": "Inspired by PotentialStyx!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddy-codes/nodeval.git"
+  },
+  "keywords": [],
+  "author": "Avery (bddy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddy-codes/nodeval/issues"
+  },
+  "homepage": "https://github.com/buddy-codes/nodeval#readme",
+  "dependencies": {
+    "@replit/protocol": "^0.2.97",
+    "google-protobuf": "^3.21.2",
+    "ws": "^8.13.0"
+  }
+}
